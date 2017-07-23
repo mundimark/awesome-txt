@@ -26,18 +26,28 @@ A collection of awesome .TXT / Text  tools, formats, services, tips&amp;tricks a
 
 ## Light Markup
 
-- **Markdown**
-- **Wikipedia Markup / Wiki Text**
-- **DokuWiki Markup**
-- [**Wiki Creole**](http://www.wikicreole.org)  
-- [**Text with Instruction (.texti)**](https://texti.github.io) - structured documents in text with formatting conventions; the best of markdown, wikipedia markup, latex & Friends - all together now
-- [**AsciiDoc**](http://www.methods.co.nz/asciidoc) by Stuart Rackham et al
-- [**Rimu Markup**](http://rimumarkup.org) by Stuart Rackham et al
-- **reStructured Text (.rst)**
-- **org-Mode (Ecmacs)**
-- **txt2tag**
+**Markdown** -- see [Awesome Markdown](https://github.com/mundimark/awesome-markdown)
 
-**More**
+**Wikipedia Markup / Wiki Text**
+
+**DokuWiki Markup**
+
+[**Wiki Creole**](http://www.wikicreole.org)  
+
+[**Text with Instruction (.texti)**](https://texti.github.io) - structured documents in text with formatting conventions; the best of markdown, wikipedia markup, latex & Friends - all together now
+
+[**AsciiDoc**](http://www.methods.co.nz/asciidoc) by Stuart Rackham et al
+
+[**Rimu Markup**](http://rimumarkup.org) by Stuart Rackham et al
+
+**reStructured Text (.rst)**
+
+**org-Mode (Ecmacs)**
+
+**txt2tag**
+
+
+#### More
 
 - [Compare Wiki Syntax @ WikiMatrix](http://www.wikimatrix.org/syntax.php)
 - [Markup & Markdown Madness!](https://markupmadness.github.io)
@@ -46,10 +56,13 @@ A collection of awesome .TXT / Text  tools, formats, services, tips&amp;tricks a
 
 ## Datafile Formats
 
-- **CSV (Comma-Separated Values)** -- see [Awesome CSV](https://github.com/csvalues/awesome-csv)
-- [**YAML (YAML Ain't Markup Language)**](http://yaml.org) -- see [Awesome YAML](https://github.com/datatxt/awseome-yaml)
-- [**TOML (Tom's Obvious, Minimal Language)**](https://github.com/toml-lang/toml)
-- [**JSON (JavaScript Object Notation)**](http://json.org) -- see [Awesome JSON (What's Next?)](https://github.com/jsonii/awesome-json-next)
+**CSV (Comma-Separated Values)** -- see [Awesome CSV](https://github.com/csvalues/awesome-csv)
+
+[**YAML (YAML Ain't Markup Language)**](http://yaml.org) -- see [Awesome YAML](https://github.com/datatxt/awseome-yaml)
+
+[**TOML (Tom's Obvious, Minimal Language)**](https://github.com/toml-lang/toml)
+
+[**JSON (JavaScript Object Notation)**](http://json.org) -- see [Awesome JSON (What's Next?)](https://github.com/jsonii/awesome-json-next)
 
 [**Markdown Configuration (.mdconf)**](https://github.com/tj/mdconf) by TJ Holowaychuk et al
 
