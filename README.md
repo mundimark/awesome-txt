@@ -63,7 +63,7 @@ _Structured documents in text with formatting conventions_
 
 ## Datafile Formats
 
-_values, records, hierarchies (trees), types & more_
+_Values, records, hierarchies (trees), types & more_
 
 
 **CSV (Comma-Separated Values)** -- see [Awesome CSV](https://github.com/csvalues/awesome-csv)
