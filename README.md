@@ -26,6 +26,9 @@ A collection of awesome .TXT / Text  tools, formats, services, tips&amp;tricks a
 
 ## Light Markup
 
+_structured documents in text with formatting conventions_
+
+
 **Markdown** -- see [Awesome Markdown](https://github.com/mundimark/awesome-markdown)
 
 **Wikipedia Markup / Wiki Text**
@@ -57,6 +60,9 @@ A collection of awesome .TXT / Text  tools, formats, services, tips&amp;tricks a
 
 
 ## Datafile Formats
+
+_values, records, hierarchies (trees), types & more_
+
 
 **CSV (Comma-Separated Values)** -- see [Awesome CSV](https://github.com/csvalues/awesome-csv)
 
