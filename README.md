@@ -42,9 +42,10 @@ A collection of awesome .TXT / Text  tools, formats, services, tips&amp;tricks a
 
 **reStructured Text (.rst)**
 
-**org-Mode (Ecmacs)**
+**[Org /Org mode (Ecmacs)](http://orgmode.org)** -- your life in (plain) text; keeping notes, maintaining TODO lists, planning projects, and writing documents in fast and effective (plain) text
 
-**txt2tag**
+**[txt2tags](http://txt2tags.org)**
+
 
 
 #### More
@@ -54,17 +55,19 @@ A collection of awesome .TXT / Text  tools, formats, services, tips&amp;tricks a
 - [Lightweight markup language @ Wikipedia](https://en.wikipedia.org/wiki/Lightweight_markup_language)
 
 
+
 ## Datafile Formats
 
 **CSV (Comma-Separated Values)** -- see [Awesome CSV](https://github.com/csvalues/awesome-csv)
 
 [**YAML (YAML Ain't Markup Language)**](http://yaml.org) -- see [Awesome YAML](https://github.com/datatxt/awseome-yaml)
 
-[**TOML (Tom's Obvious, Minimal Language)**](https://github.com/toml-lang/toml)
-
 [**JSON (JavaScript Object Notation)**](http://json.org) -- see [Awesome JSON (What's Next?)](https://github.com/jsonii/awesome-json-next)
 
+[**TOML (Tom's Obvious, Minimal Language)**](https://github.com/toml-lang/toml) by Tom Preston-Werner et al
+
 [**Markdown Configuration (.mdconf)**](https://github.com/tj/mdconf) by TJ Holowaychuk et al
+
 
 
 ## More
