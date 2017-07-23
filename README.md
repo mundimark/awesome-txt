@@ -20,6 +20,11 @@ A collection of awesome .TXT / Text  tools, formats, services, tips&amp;tricks a
 
 [**Bib.TXT**](http://bibtxt.github.io) - free bibliographies in text (unicode) format - BibTeX for the 21st century - books, articles, & more
 
+[**Ledger**](http://plaintextaccounting.org) - double-entry bookkeeping / accounting in (plain) text; follow your money
+
+
+## More
+
 
 
 ## Meta
