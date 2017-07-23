@@ -26,10 +26,12 @@ A collection of awesome .TXT / Text  tools, formats, services, tips&amp;tricks a
 
 ## Light Markup
 
-_structured documents in text with formatting conventions_
+_Structured documents in text with formatting conventions_
 
 
 **Markdown** -- see [Awesome Markdown](https://github.com/mundimark/awesome-markdown)
+
+- [**Kramdown**](https://kramdown.gettalong.org) -- see [Awesome Kramdown](https://github.com/viennahtml/awesome-kramdown)
 
 **Wikipedia Markup / Wiki Text**
 
@@ -83,6 +85,9 @@ _values, records, hierarchies (trees), types & more_
 [**Plain Text Accounting**](http://plaintextaccounting.org) by Simon Michael et al
 
 - [**Ledger Syntax Quick Reference**](http://plaintextaccounting.org/quickref)
+
+
+[**Mundi Mark**](https://mundimark.github.io) - all about markup & markdown
 
 
 
