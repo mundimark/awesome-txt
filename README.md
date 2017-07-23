@@ -29,7 +29,7 @@ Did you know? The single-file format works great for advent calendars
 or beer-of-the-day calendars.
 ```
 
-[**Todo.TXT**](http://todotxt.com) by Gina Trapani et al -- future-proof task tracking in a file you control; if you want to get it done, first write it down.
+[**Todo.TXT**](https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format) by Gina Trapani et al -- future-proof task tracking in a file you control; if you want to get it done, first write it down.
 
 ```
 (A) Call Mom @Phone +Family
