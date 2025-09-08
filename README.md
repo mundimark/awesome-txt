@@ -149,7 +149,7 @@ more often and loudly in the acts of his life...
   Expenses:Taxi
 ```
 
-[**mkjog**](https://gitea.green.gf4/ki9/mkjog) - Manage your running in a text file. 
+[**mkjog**](https://gitea.gf4.pw/ki9/mkjog) - Manage your running in a text file. 
 
 ```
 # DATE    	DIST	TIME 	PACE	COMMENT
