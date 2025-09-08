@@ -153,7 +153,7 @@ more often and loudly in the acts of his life...
 
 ```
 # DATE    	DIST	TIME 	PACE	COMMENT
-2019-05-27	4.43	37:07	08:22 ; Chased by dog
+2019-05-27	4.43	37:07	08:22	; Chased by dog
 2019-05-30	5.03	39:19	07:49
 2019-06-02	5.05	42:03	08:20
 2019-06-16	3.46	29:26	08:30	# Ran the big hill
