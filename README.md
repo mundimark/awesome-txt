@@ -1,12 +1,14 @@
 Text, Text, Text - The past, present and future of writing (and publishing). 
 
-
 # Awesome .TXT / Text
 
 A collection of awesome .TXT / Text  tools, formats, services, tips & tricks and more.
 
 #### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
 
+## Tools
+
+[**CleanUpTxt**](https://cleanuptxt.com) - fast and privacy friendly text cleaning and formatting tools that run locally in the browser
 
 ## Formats
 
