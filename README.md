@@ -10,6 +10,8 @@ A collection of awesome .TXT / Text  tools, formats, services, tips & tricks and
 
 [**CleanUpTxt**](https://cleanuptxt.com) - fast and privacy friendly text cleaning and formatting tools that run locally in the browser
 
+[**Flipper File**](https://flipperfile.com/text-tools/txt) - free browser-based TXT file compression tool (GZIP or Deflate), no login required
+
 ## Formats
 
 [**Journal.TXT**](https://journaltxt.github.io) - single-text file journals - the human multi-document format for writers
