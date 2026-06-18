@@ -1,8 +1,8 @@
 Text, Text, Text - The past, present and future of writing (and publishing). 
 
-# Awesome .TXT / Text
+# Awesome .TXT 
 
-A collection of awesome .TXT / Text formats, tools & services, tips & tricks and more.
+A collection of awesome .TXT formats, tools & services, tips & tricks and more.
 
 #### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
 
