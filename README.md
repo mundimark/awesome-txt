@@ -170,7 +170,7 @@ more often and loudly in the acts of his life...
 2019-06-16	3.46	29:26	08:30	# Ran the big hill
 ```
 
-[**Football.TXT**](https://openfootball.github.io/spec)  - (future-proof & evergreen) structured) text format for football (soccer) match schedules (incl. fixtures & results, line-ups, and more).
+[**Football.TXT**](https://openfootball.github.io/spec)  - (future-proof & evergreen) structured text format for football (soccer) match schedules (incl. fixtures & results, line-ups, and more).
 
 ```
 ▪ Final
@@ -270,10 +270,10 @@ _Values, records, hierarchies (trees), types & more_
 
 **License**
 
-![](https://publicdomainworks.github.io/buttons/zero88x31.png)
+The awesome list is dedicated to the public domain. Use as you please with no restrictions whatsoever.
 
-The awesome list is dedicated to the public domain. Use it as you please with no restrictions whatsoever.
-
+<!--
 **Questions? Comments?**
 
 Post them to the [wwwmake forum](http://groups.google.com/group/wwwmake). Thanks!
+-->
