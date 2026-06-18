@@ -191,8 +191,9 @@ Argentina: Emiliano MARTINEZ [Y 125'] - Nicolas TAGLIAFICO (120+1' Paulo DYBALA)
       Angel DI MARIA (64' Marcos ACUNA [Y 90+8'])
 France: Hugo LLORIS [c] - Raphael VARANE (113' Ibrahima KONATE), Jules KOUNDE (120+1' Axel DISASI),
       Dayot UPAMECANO, Theo HERNANDEZ (71' Eduardo CAMAVINGA) - Antoine GRIEZMANN (71' Kingsley COMAN),
-      Aurelien TCHOUAMENI, Adrien RABIOT [Y 55'] (96' Youssouf Fofana) - Olivier GIROUD [Y 90+5'] (41' Marcus THURAM [Y 87']),
-      Kylian MBAPPE, Ousmane DEMBELE (41' Randal KOLO MUANI)
+      Aurelien TCHOUAMENI, Adrien RABIOT [Y 55'] (96' Youssouf Fofana) -
+      Olivier GIROUD [Y 90+5'] (41' Marcus THURAM [Y 87']), Kylian MBAPPE,
+      Ousmane DEMBELE (41' Randal KOLO MUANI)
 
 Refs: Szymon MARCINIAK (POL), Pawel SOKOLNICKI (POL), Tomasz LISTKIEWICZ (POL)
 ```
