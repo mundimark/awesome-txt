@@ -6,11 +6,6 @@ A collection of awesome .TXT / Text  tools, formats, services, tips & tricks and
 
 #### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
 
-## Tools
-
-[**CleanUpTxt**](https://cleanuptxt.com) - fast and privacy friendly text cleaning and formatting tools that run locally in the browser
-
-[**Flipper File**](https://flipperfile.com/text-tools/txt) - free browser-based TXT file compression tool (GZIP or Deflate), no login required
 
 ## Formats
 
