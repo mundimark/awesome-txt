@@ -2,12 +2,12 @@ Text, Text, Text - The past, present and future of writing (and publishing).
 
 # Awesome .TXT / Text
 
-A collection of awesome .TXT / Text  tools, formats, services, tips & tricks and more.
+A collection of awesome .TXT / Text formats, tools & services, tips & tricks and more.
 
 #### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
 
 >  [!NOTE]
->  As a new policy starting in 2026 - please add "generic" .TXT tools & services to the [Awesome .TXT (More Tools & Services)?](MORE.md) page.
+>  As a new policy starting in 2026 - please add "generic" .TXT tools & services to the [Awesome .TXT (More Tools & Services)](MORE.md) page.
 >  thank you for your understanding.
 > 
 >  ps: bonus - please, do NOT forget to add a link to your code / source on github / gitlab / codeberg or whatnot.
