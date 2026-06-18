@@ -158,6 +158,34 @@ more often and loudly in the acts of his life...
 2019-06-16	3.46	29:26	08:30	# Ran the big hill
 ```
 
+[**Football.TXT**](https://openfootball.github.io/spec)  - (future-proof & evergreen) structured) text format for football (soccer) match schedules (incl. fixtures & results, line-ups, and more).
+
+```
+▪ Final
+Sun Dec 18 18:00 UTC+3 @ Lusail Stadium, Al Daayen, Att: 88966
+  Argentina v France  3-3 a.e.t., 4-2 pen.
+     (Lionel MESSI 23'(p), 108', Angel DI MARIA 36';
+      Kylian MBAPPE 80'(p), 81', 118'(p))
+
+Penalties: 0-1 Kylian MBAPPE, 1-1 Lionel MESSI,
+               Kingsley COMAN (missed), 2-1 Paulo DYBALA,
+               Aurelien TCHOUAMENI (missed), 3-1 Leandro PAREDES,
+           3-2 Randal KOLO MUANI, 4-2 Gonzalo MONTIEL
+
+Argentina: Emiliano MARTINEZ [Y 125'] - Nicolas TAGLIAFICO (120+1' Paulo DYBALA),
+      Cristian ROMERO, Nicolas OTAMENDI, Nahuel MOLINA (91' Gonzalo MONTIEL [Y 116']) -
+      Rodrigo DE PAUL (102' Leandro PAREDES [Y 114']), Alexis MAC ALLISTER (116' German PEZZELLA),
+      Enzo FERNANDEZ [Y 45+7'] - Julian ALVAREZ (102' Lautaro MARTINEZ), Lionel MESSI [c],
+      Angel DI MARIA (64' Marcos ACUNA [Y 90+8'])
+France: Hugo LLORIS [c] - Raphael VARANE (113' Ibrahima KONATE), Jules KOUNDE (120+1' Axel DISASI),
+      Dayot UPAMECANO, Theo HERNANDEZ (71' Eduardo CAMAVINGA) - Antoine GRIEZMANN (71' Kingsley COMAN),
+      Aurelien TCHOUAMENI, Adrien RABIOT [Y 55'] (96' Youssouf Fofana) - Olivier GIROUD [Y 90+5'] (41' Marcus THURAM [Y 87']),
+      Kylian MBAPPE, Ousmane DEMBELE (41' Randal KOLO MUANI)
+
+Refs: Szymon MARCINIAK (POL), Pawel SOKOLNICKI (POL), Tomasz LISTKIEWICZ (POL)
+```
+
+
 
 ## Light Markup
 
