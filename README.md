@@ -6,6 +6,17 @@ A collection of awesome .TXT / Text  tools, formats, services, tips & tricks and
 
 #### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
 
+> !> [!NOTE]
+>  As a new policy starting in 2026 - please add "generic" .TXT tools & services to the [Awesome .TXT (More Tools & Services)?](MORE.md) page.
+>  thank you for your understanding.
+> 
+>  ps: bonus - please, do NOT forget to add a link to your code / source on github / gitlab / codeberg or whatnot.
+
+<!--
+>  if no source code is available, please add yourself to [the Commercial Edition](COMMERCIAL.md) page -
+>   no matter if the basic usage is free or you only have ads or such. 
+-->
+
 
 ## Formats
 
