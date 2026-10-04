@@ -198,6 +198,14 @@ France: Hugo LLORIS [c] - Raphael VARANE (113' Ibrahima KONATE), Jules KOUNDE (1
 Refs: Szymon MARCINIAK (POL), Pawel SOKOLNICKI (POL), Tomasz LISTKIEWICZ (POL)
 ```
 
+[**bookmarks.txt**](https://github.com/soulim/bookmarks.txt)  - A concept of keeping URLs in plain text files.
+
+```
+https://www.example.com
+https://github.com/mundimark/awesome-txt
+https://en.wikipedia.org/wiki/Plain_text wikipedia article on plain text
+https://www.kernel.org/ linux kernel archives
+```
 
 
 ## Light Markup
